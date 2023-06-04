@@ -27,12 +27,14 @@ aka dhwanil pithva
   <a href="https://excalidraw.com"><img src="https://excalidraw.com/favicon.ico" width="48" height="48" alt="excalidraw" /></a>
 </div>
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpiths&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### s/o [Theo Browne](https://github.com/t3dotgg)
+### s/o Theo Browne
 This man made me a better developer and i learned a lot from him, definitely recommend you check him out.
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/6751787?v=4" width="96" height="96" alt="Theo Browne" />
+  <a href="https://github.com/t3dotgg"><img src="https://avatars.githubusercontent.com/u/6751787?v=4" width="96" height="96" alt="Theo Browne" /></a>
 </div>
 <div align="center" style="display: flex;">
   <a href="https://www.youtube.com/c/theobrowne1017"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Theo Youtube" /></a>
