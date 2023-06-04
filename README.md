@@ -5,7 +5,6 @@ aka dhwanil pithva
 ### web developer (fullstack)
 
 - 🪂 never afraid to dive into anything new and rewrite the whole code base if it’s worth it
-- 🔨 currently trying to build stuff that can help me ease my life.
 - 🚀 aiming to ship shit faster that is performant and has a good ui
 - 🩸 “bleed responsibly” - [Theo](https://github.com/t3dotgg)
 - 🎓 “best way to learn is to build shit” - Also [Theo](https://github.com/t3dotgg)
