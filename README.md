@@ -20,6 +20,7 @@ aka dhwanil pithva
   <a href="https://ui.shadcn.com"><img src="https://ui.shadcn.com/favicon.ico" width="48" height="48" alt="shadcn/ui" /></a>
   <a href="https://zod.dev"><img src="https://zod.dev/logo.svg" width="48" height="48" alt="zod" /></a>
   <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="planetscale" /></a>
+  <a href="https://orm.drizzle.team"><img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="48" height="48" alt="excalidraw" /></a>
   <a href="https://www.prisma.io"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="48" height="48" alt="prisma" /></a>
   <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="trpc" /></a>
   <a href="https://clerk.com"><img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" width="48" height="48" alt="clerk" /></a>
